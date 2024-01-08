@@ -10,7 +10,9 @@ CMM (C Minus Minus) language compiler and VM.
 
 ## Installation
 mkdir build
+
 cd build
+
 cmake -XCode ../src
 ```
 
@@ -24,7 +26,7 @@ Command "CMM -h" or "CMM --help" is used to get the help information:
 CMM
 ===
 
-    CMM (C Minus Minus) Language Compiler And __VM.
+    CMM (C Minus Minus) Language Compiler And VM.
 
 ========================================================================================================================
 
